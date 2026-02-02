@@ -44,6 +44,13 @@ I bridge the gap between **physics** and **high-performance computing**. I enjoy
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/piD-kun)
 
+---
+
+## :zap: Recent tasks
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 ## 📊 GitHub Stats
 
