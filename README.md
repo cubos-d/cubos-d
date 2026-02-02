@@ -46,8 +46,8 @@ I bridge the gap between **physics** and **high-performance computing**. I enjoy
 
 ---
 
+## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-
 <!--RECENT_ACTIVITY:last_update-->
 
 <!--
