@@ -50,14 +50,14 @@ I bridge the gap between **physics** and **high-performance computing**. I enjoy
 
 ## ⚡ Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)
-2. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)
-3. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)
-4. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)
-5. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)
+1. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)<br>
+2. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)<br>
+3. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)<br>
+4. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)<br>
+5. ⬆️ Pushed undefined commit(s) to [cubos-d/cubos-d](https://github.com/cubos-d/cubos-d)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 2nd, 2026, 5:02:26 PM
+Last Updated: Tuesday, February 3rd, 2026, 1:43:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--
