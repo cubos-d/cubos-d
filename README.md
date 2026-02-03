@@ -8,9 +8,11 @@ I bridge the gap between **physics** and **high-performance computing**. I enjoy
 
 ## 🔭 Currently Exploring
 
-* **[RUSpectroscopy_Tools](https://github.com/cubos-d/RUSpectroscopy_Tools):** 🎻 *Thesis Project.* A specialized Python library accelerated with **C modules** to solve the inverse problem in **Resonant Ultrasound Spectroscopy (RUS)**.
-  * **The Challenge:** Solving the forward problem for cubic materials efficiently.
+* **[RUSpectroscopy_Tools](https://github.com/cubos-d/RUSpectroscopy_Tools):** 🎻 *Thesis Project.* A specialized Python library accelerated with **C modules** to solve forward and inverse problem in **Resonant Ultrasound Spectroscopy (RUS)**.
+  * **First Challenge:** Solving the forward problem efficiently.
     * **The Solution:** Implemented core mathematical solvers in C for performance, wrapped in Python for usability.
+  * **Second Challenge:** Solving the inverse problem, training a model with a domestic GPU AMD Radeon 6600M
+    * **The solution:** Making some variable changes that simplified a lot the problem.
 
 ---
 
