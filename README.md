@@ -20,7 +20,7 @@ I bridge the gap between **physics** and **high-performance computing**. I enjoy
 
 ### ⚙️ Core
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AMD](https://img.shields.io/badge/AMD_ROCm-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<!-- ![AMD](https://img.shields.io/badge/AMD_ROCm-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) -->
 
 ### 🧪 Scientific Python & ML
 
