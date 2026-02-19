@@ -6,13 +6,13 @@ I bridge the gap between **physics** and **high-performance computing**. I enjoy
 
 ---
 
-## 🔭 Currently Exploring
+## 🔭 Projects
+
+* **[Resource Checker API](https://github.com/cubos-d/res_api_check):** *A fun mini Project.* A simple applications that checks memory and CPU usage of a machine via API. Works as a python extension written in C.
 
 * **[RUSpectroscopy_Tools](https://github.com/cubos-d/RUSpectroscopy_Tools):** 🎻 *Thesis Project.* A specialized Python library accelerated with **C modules** to solve forward and inverse problem in **Resonant Ultrasound Spectroscopy (RUS)**.
-  * **First Challenge:** Solving the forward problem efficiently.
-    * **The Solution:** Implemented core mathematical solvers in C for performance, wrapped in Python for usability.
-  * **Second Challenge:** Solving the inverse problem, training a model with a domestic GPU AMD Radeon 6600M
-    * **The solution:** Making some variable changes that simplified a lot the problem.
+  * **First Challenge:** Solving the forward problem efficiently. Implemented core mathematical solvers in C for performance, wrapped in Python for usability.
+  * **Second Challenge:** Solving the inverse problem for cubic materials, training a model with a domestic GPU AMD Radeon 6600M. Making some variable changes that simplified a lot the problem.
 
 ---
 
